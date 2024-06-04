@@ -1,4 +1,4 @@
-A simple python script to write a cover letter using a the information from a CV text file, a Job Description from a website and additional Notes using OpenAI API. 
+A simple python script to write a cover letter using the information from a CV text file, a Job Description from a website and additional Notes using OpenAI API. 
 You have to add your OpenAI API Key to your development system to use the OpenAI Library, for example: export OPENAI_API_KEY=blablablakeyblablabla
 
 I wrote this script mainly to improve my cover letter style in different languages. I usually heavily edit the result.
